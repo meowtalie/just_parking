@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "900937530952",
+    "firebase_url": "https://just-parking-3e698.firebaseio.com",
+    "project_id": "just-parking-3e698",
+    "storage_bucket": "just-parking-3e698.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900937530952:android:8f4aabf92ea310164d627d",
+        "android_client_info": {
+          "package_name": "edu.uco.alacy3.just_parking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900937530952-djn38inkfqk82pmuf94g5hmmecm0pd7h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnciq1yO1GSVePL-0PUhMIlF1e5m1Zd_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900937530952-djn38inkfqk82pmuf94g5hmmecm0pd7h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
